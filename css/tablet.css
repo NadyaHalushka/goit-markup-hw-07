@@ -1,0 +1,46 @@
+
+
+   
+
+@media screen and (min-width: 768px){
+    .container { 
+        width: 582px;
+    }
+    
+
+    .hero >.container {
+        width: 582px;
+    }
+
+    .hero{
+        padding-top: 111px;
+     padding-bottom: 108px;
+    }
+
+    .hero-title{
+        font-size: 56px;
+        margin-bottom: 40px;
+    }
+
+    
+    
+
+    .team{
+        
+        padding-top:96px;
+        padding-bottom: 104px;
+    }
+
+    .team-item {
+        width: calc((100% - 24px) / 2); 
+    }
+
+    .customers > .container {
+        width: 582px;
+    }
+
+   
+    .customers-item{
+        width: calc((100% - 48px) / 3);
+       }
+}
