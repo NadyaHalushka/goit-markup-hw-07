@@ -3,12 +3,33 @@
         width: 294px;
     }
 
+    .mob-menu >.container {
+        width: 458px;
+    }
+    
+
+    .header >.container {
+        width: 428px;
+    }
+
     .hero >.container {
         width: 348px;
+    }
+
+      
+    .about >.container {
+        width: 426px;
     }
 
   
     .customers >.container {
         width: 426px;
+      
+       
     }
+
+    .footer >.container {
+        width: 426px;
+    }
+
 }
