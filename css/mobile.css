@@ -6,6 +6,28 @@
     .mob-menu >.container {
         width: 458px;
     }
+
+    .mob-menu-list{
+        margin-bottom: 100px;
+        }
+        
+
+    .mob-menu-item:not(:last-child)
+{
+margin-bottom: 40px;
+}
+
+.mob-contacts-list{
+    margin-bottom: 48px;
+    }
+
+    .mob-contacts-tel{
+      font-size: 36px;
+      }
+
+      .mob-menu-link{
+      font-size: 36px;
+      }
     
 
     .header >.container {
@@ -15,6 +37,10 @@
     .hero >.container {
         width: 348px;
     }
+
+    
+    .hero-title{
+        font-size: 36px;}
 
       
     .about >.container {
