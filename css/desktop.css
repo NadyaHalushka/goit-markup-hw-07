@@ -9,6 +9,10 @@
     .header>.container {
         width: 1200px;
     }
+   
+    .header-tel{ 
+        padding-top: 24px;
+    }
 
  
 
@@ -148,17 +152,28 @@ color:var(--first-title-color);
         width: calc((100% - 120px) / 6);
        }
 
+          /*---------FOOTER-----------*/
+
        .footer >.container {
-        width: 1200px;
+        width: 1158px;
         display: flex;
-       
     }
 
+    .footer-wrap{
+        margin-bottom: -30px;  
+    }
+  
+  
+
+
+
     .footer-soc{
-     margin-left: 120px; }
+     /* margin-left: 80px;  */
+     margin-bottom: -30px;
+    }
 
      .footer-subscribe{
-      margin-left: 80px; 
+      /* margin-left: 50px;  */
       }
 
 }
